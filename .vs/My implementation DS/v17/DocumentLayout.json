@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\Mohamed Abo-Hadhoud\\Projects\\My implementation DS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCCE109-F725-4CF1-BC2B-C57C229716ED}|Course 13 Algorithms and Problem solving.vcxproj|E:\\Programming\\Mohamed Abo-Hadhoud\\Projects\\My implementation DS\\My implementation DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DCCE109-F725-4CF1-BC2B-C57C229716ED}|Course 13 Algorithms and Problem solving.vcxproj|solutionrelative:My implementation DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "My implementation DS.cpp",
+              "DocumentMoniker": "E:\\Programming\\Mohamed Abo-Hadhoud\\Projects\\My implementation DS\\My implementation DS.cpp",
+              "RelativeDocumentMoniker": "My implementation DS.cpp",
+              "ToolTip": "E:\\Programming\\Mohamed Abo-Hadhoud\\Projects\\My implementation DS\\My implementation DS.cpp",
+              "RelativeToolTip": "My implementation DS.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T19:34:05.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
