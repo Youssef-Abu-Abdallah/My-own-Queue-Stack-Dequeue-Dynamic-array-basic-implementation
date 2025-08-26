@@ -4,3 +4,5 @@
 *.filters
 *.user
 'x64/Debug'/
+*.vs
+*.sln
