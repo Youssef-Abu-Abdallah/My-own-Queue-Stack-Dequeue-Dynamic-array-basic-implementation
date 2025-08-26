@@ -1,5 +1,6 @@
 0
-Course 1.6dcce109/
+'Course 1.6dcce109'/
 *.vcxproj
 *.filters
 *.user
+'x64/Debug'/
